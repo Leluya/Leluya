@@ -42,6 +42,9 @@
       <td>PRIVATE</td>
       <td>Web site on game developpment to share experience and find coworker</td>
     </tr>
+      <td><a href="https://github.com/Leluya/Repertoire-de-films-et-series"><b>Répertoire de films et séries (Full Symfony)</b></a></td>
+      <td>PUBLIC</td>
+      <td>Web site wwith a list of films and series</td>
   </tbody>
 </table>
 
