@@ -27,7 +27,7 @@
       <td>PUBLIC</td>
       <td>Travelling web site</td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/Leluya/O-Travel-back"><b>Projet de fin de formation (BACK + SYMFONY)</b></a></td>
       <td>PUBLIC</td>
       <td>Travelling web site</td>
@@ -42,9 +42,16 @@
       <td>PRIVATE</td>
       <td>Web site on game developpment to share experience and find coworker</td>
     </tr>
+    <tr>
       <td><a href="https://github.com/Leluya/Repertoire-de-films-et-series"><b>Répertoire de films et séries (Full Symfony)</b></a></td>
       <td>PUBLIC</td>
       <td>Web site wwith a list of films and series</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Leluya/Back-office-site-de-chaussures"><b>Back office d'un site de chaussure (PHP)</b></a></td>
+      <td>PUBLIC</td>
+      <td>Back office for shoes shop</td>
+    </tr> 
   </tbody>
 </table>
 
