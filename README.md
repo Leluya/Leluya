@@ -33,7 +33,7 @@
       <td>Travelling web site</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>Calculatrice en JS</b></a></td>
+      <td><a href="https://github.com/Leluya/Calculatrice-javascript"><b>Calculatrice en JS</b></a></td>
       <td>PUBLIC</td>
       <td>Calculator make with JS</td>
     </tr>
