@@ -56,6 +56,11 @@
       <td><a href="https://github.com/Leluya/Weather-forecast"><b>Weather forecast (PHP Symfony Twig)</b></a></td>
       <td>PUBLIC</td>
       <td>Page de prévisions météo du jour, et son widget.</td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/Leluya/Space-Invaders"><b>Space Invaders Game (Javascript)</b></a></td>
+      <td>PUBLIC</td>
+      <td>Space Invaders in JavaScript.</td>
     </tr> 
   </tbody>
 </table>
