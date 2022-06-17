@@ -51,6 +51,11 @@
       <td><a href="https://github.com/Leluya/Back-office-site-de-chaussures"><b>Back office d'un site de chaussure (PHP)</b></a></td>
       <td>PUBLIC</td>
       <td>Back office for shoes shop</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Leluya/Weather-forecast"><b>Weather forecast (PHP Symfony Twig)</b></a></td>
+      <td>PUBLIC</td>
+      <td>Page de prévisions météo du jour, et son widget.</td>
     </tr> 
   </tbody>
 </table>
