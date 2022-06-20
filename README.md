@@ -63,7 +63,7 @@
       <td>Space Invaders in JavaScript.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Leluya/Space-Invaders"><b> Simple page (HTML & CSS)</b></a></td>
+      <td><a href="https://github.com/Leluya/HTML-CSS"><b> Simple page (HTML & CSS)</b></a></td>
       <td>PUBLIC</td>
       <td>Simple page in HTML and CSS.</td>
     </tr> 
