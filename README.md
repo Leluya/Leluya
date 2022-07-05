@@ -38,9 +38,14 @@
       <td>Calculator make with JS</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Leluya/MakeTonGame"><b>MakeTonGame (Full Symfony)</b></a></td>
+      <td><a href="https://github.com/Leluya/MTG-Front"><b>MakeTonGame Front (React)</b></a></td>
       <td>PRIVATE</td>
-      <td>Web site on game developpment to share experience and find coworker</td>
+      <td>Frontend Web site on game developpment to share experience and find coworker</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Leluya/MTG-Back"><b>MakeTonGame Back (Symfony)</b></a></td>
+      <td>PRIVATE</td>
+      <td>Backend Web site on game developpment to share experience and find coworker</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Leluya/Repertoire-de-films-et-series"><b>Répertoire de films et séries (Full Symfony)</b></a></td>
